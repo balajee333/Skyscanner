@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SkyScanner</string>
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+    <string name="onward_date">Onward Date</string>
+    <string name="currency">Currency</string>
+    <string name="country">Country</string>
+    <string name="locale">Locale</string>
+    <string name="find_flights">Find Flights</string>
 </resources>
